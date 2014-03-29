@@ -1,0 +1,16 @@
+8288f0ade3a7798aca3bdcc8b2200898 *DESCRIPTION
+5f0de35c9d1ed41eff05443d173966f5 *NAMESPACE
+fc159cc2785acf422e3d935ee52e5306 *R/f.B.R
+d63d950d008d1eb1dd695381a400321d *R/f.B.neglog.deriv.R
+701f4d8e83287687f09e2c04e9ef8c50 *R/f.fb.R
+0f3cdc21e9a16e484f6a8f345d3e8b34 *R/f.fb.neglog.deriv.R
+8a50e21afb25953f9ae2d9ae83ac8fee *R/f.grovest3.R
+3119881b6fe85b3a0e0e8ed5c6c29b5a *R/invGauss.R
+e93c6e15e811c82b32a3aa641b98f299 *R/predict.invGauss.R
+13ef966d7a17f3ea855943cc1fa04171 *R/print.invGauss.R
+115af70746eb4aa195f0ff75f7a41f8e *R/print.summary.invGauss.R
+bc70449d38dc9a7d040db628b0d03276 *R/summary.invGauss.R
+0a41fa00ea0733f54c81e278ba16c197 *data/d.oropha.rec.rda
+41ace2bda77f2192f203d018d4263bfc *man/d.oropha.rec.Rd
+43c297a56fd10eaecc0af899f1aa2301 *man/invGauss.Rd
+78bf4ef8be7f3b15e9fc9c4db04010f7 *man/summary.invGauss.Rd

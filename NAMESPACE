@@ -1,0 +1,8 @@
+export(invGauss)
+importFrom(survival, Surv)
+importFrom(optimx, optimx)
+S3method(predict, invGauss)
+S3method(print, invGauss)
+S3method(summary, invGauss)
+S3method(print, summary.invGauss)
+
