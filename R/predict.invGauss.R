@@ -80,10 +80,13 @@ if(F){
 ###	assign("no.censor", all(status == 1), env = .GlobalEnv)	#
 ###	if(all(status != 1))
 ###		stop("No events!")	#
-	covar <- model.matrix(formula, data = data)
+
+	# covar <- model.matrix(formula, data = data)
+
 ###	assign("ncovar", dim(covar)[2], f = 1)
 ###	assign("ncovar", dim(covar)[2], env = .GlobalEnv)
-	termnames <- c("mu", "tau", dimnames(covar)[[2]])	#
+
+	# termnames <- c("mu", "tau", dimnames(covar)[[2]])	#
 }
 
 

@@ -1,5 +1,6 @@
 export(invGauss)
-importFrom(survival, Surv)
+import(survival, stats, graphics)
+# importFrom(survival, Surv)
 importFrom(optimx, optimx)
 S3method(predict, invGauss)
 S3method(print, invGauss)

@@ -6,7 +6,7 @@
 \description{
 An example from clinical medicine given by Kalbfleisch and Prentice (2002), a clinical trial on 195 patients with carcinoma of the oropharynx carried out by the Radiation Therapy Oncology Group in the United States. The patients were randomized into two treatment groups (\dQuote{standard} and \dQuote{test} treatment), and survival times were measured in days (rather, years in this recoded data set) from diagnosis. 
 }
-\usage{d.oropha.rec}
+\usage{data(d.oropha.rec)}
 \format{
 A number of covariates were recorded for each patient at the entry to the study:\cr
 \describe{
